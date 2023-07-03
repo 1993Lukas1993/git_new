@@ -2,3 +2,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis dui ele
 zmena jahodky 14:57
 
 edit for conflict
+
+another local edit for conflict
